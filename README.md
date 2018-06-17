@@ -4,9 +4,9 @@
 ### Overview
 
 In this assignment, we created two different portfolios. The first was a portfolio layout using the Bootstrap CSS Framework. The second was to enhance a 
-previously created portfolio with a mobile-responsive layout (find this here: https://southerngirl13.github.io/Responsive-Portfolio/.
+previously created portfolio with a mobile-responsive layout (find my responsive portfolio here: https://southerngirl13.github.io/Responsive-Portfolio/).
 
-### Before You Begin
+### Project Mandatories
 
 * HTML, CSS, GitHub, GitHub Pages, and Bootstrap. 
 
